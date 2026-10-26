@@ -9,7 +9,7 @@ SETUP
 1) Extract ZIP.
 2) Upload index.html, package.json and api/extract.js to a GitHub repository.
 3) Import repository into Vercel and Deploy.
-4) In index.html, replace https://YOUR-PROJECT.vercel.app/api/extract with your actual Vercel deployment URL plus /api/extract.
+4) In index.html, replace https://https://html-nine-steel.vercel.app/api/extract with your actual Vercel deployment URL plus /api/extract.
 5) Import index.html into AppMint using its HTML/WebView project option and build APK.
 
 IMPORTANT
